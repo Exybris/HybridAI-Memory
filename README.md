@@ -3,10 +3,10 @@ An **AI hybrid solution** with extended memory and dynamic retrieval.
 
 ## Goal  
 Develop an AI system capable of efficiently storing and retrieving long-term context through:  
-- ** Vector Database** for embeddings  
-- ** Contextual Scoring** for relevance optimization  
-- ** Retrieval Agents** for intelligent access to information  
-- ** Simulation & Mathematical Modeling**  
+- **Vector Database** for embeddings  
+- **Contextual Scoring** for relevance optimization  
+- **Retrieval Agents** for intelligent access to information  
+- **Simulation & Mathematical Modeling**  
 
 ## Technologies  
 - **Languages**: Python  
