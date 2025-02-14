@@ -27,4 +27,4 @@ Develop an AI system capable of efficiently storing and retrieving long-term con
 - [Twitter (X)](https://x.com/exybris?s=21&t=iHnL1Pg5w1apt7AIWil3TA)   
 
 ---  
-*Project in development — All suggestions are welcome!*
+*Project in development — All suggestions are welcome*
